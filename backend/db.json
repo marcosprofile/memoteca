@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Marcos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Marcos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Aprendendo Backend",
+      "autoria": "Marcos",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Aprendendo React",
+      "autoria": "Marcos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 5,
+      "conteudo": "Estudando na Alura",
+      "autoria": "Marcos",
+      "modelo": "modelo1"
+    }
+  ]
+}
